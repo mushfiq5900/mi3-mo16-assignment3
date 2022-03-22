@@ -1,0 +1,16 @@
+Assignment Requirements:
+1. Custom Name
+2. Menu Optional But ami dibo
+3. Carousol Dite hobe. Min 3 images
+4. Carousol a meaningfull lekha dite hobe
+5. Every moment csutomize kore korte hobe
+6. Color customize kora jete pare.
+7. Pacakge part mendatory. Hot part ta must
+8. Happy clients customize kore korte hobe
+9. FAQ must korte hobe
+10. Footer a apple store and play store icon and link dite hobe
+11. Responsive kortei hobe
+12. Toast thakte hobe.
+
+
+Repo Link:  https://github.com/Porgramming-Hero-web-course/convention-center-mushfiq5900

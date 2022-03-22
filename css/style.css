@@ -1,0 +1,64 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+/* Common Styles */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.main-color{
+    color: #FF6263 !important;
+}
+.main-bg{
+    background-color: #FF6263 !important;
+}
+.custom-btn{
+    background-color: #FF6263;
+    color: white;
+}
+.span-color{
+    color: rgb(19, 19, 19);
+}
+
+
+/* Font Awesome Style */
+.far{
+    color: #FF6263;
+}
+
+/* Hot Label Styles */
+
+.hot-position{
+    position: absolute; top: -9px; right: 20px;
+}
+.pos-relative{
+    position: relative;
+}
+
+.hot-color{
+    background-color: #237dd1;
+    color: white;
+}
+.hot-btn{
+    background-color: #ffbf00;
+    color: white;
+}
+
+
+/* Mobile Responsive Carousel and footer Problem Fixing */
+
+@media screen and (max-width:425px) {
+    .carousel-item img{
+        width: auto !important;
+    }
+    .carousel-caption{
+        display: block!important;
+    }
+
+  }
+@media screen and (max-width:425px) {
+    .custom-footer{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
